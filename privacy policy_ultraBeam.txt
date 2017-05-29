@@ -6,9 +6,9 @@ This privacy policy has been compiled to better serve those who are concerned wi
 
 When do we collect information?
 
-• We collect the messages you send or receive through this app and store it on your device. We do not upload the collected information to our website,they just get stored in your device in form of sharedPreferences.
-• The only personal information app may ask is your 'UserName' which is not compulsory to enter. Just like messages it is also stored only in your device. 
-• The app uses 'Record Audio' feature to receive messages(only when the app is opened) which as mentioned before is stored in the user's device.      
+â€¢ We collect the messages you send or receive through this app and store it on your device. We do not upload the collected information to our website,they just get stored in your device in form of sharedPreferences.
+â€¢ The only personal information app may ask is your 'UserName' which is not compulsory to enter. Just like messages it is also stored only in your device. 
+â€¢ The app uses 'Record Audio' feature to receive messages(only when the app is opened) which as mentioned before is stored in the user's device.Â Â Â Â Â  
 
 
 Third-party disclosure
@@ -17,7 +17,7 @@ We do not sell, trade, or otherwise transfer to outside parties your Personally 
 
 Third-party links
 
-We do not include or offer third-party products or services on our app.
+We do not include or offer third-party products or services in our app except google's firebase analytics.
 
 Google
 
